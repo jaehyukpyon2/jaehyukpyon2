@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| No. | 제목 |
+| --- | --- |
+| 23.10.16~27 | <a href="https://github.com/jaehyukpyon2/htmlcssjs-book">html/css 포트폴리오 템플</a> |
+| 23.10.16~27 | <a href="https://github.com/jaehyukpyon2/MyBatisPlainJavaConfig">Java, MyBatis 콘솔 CRUD</a> | 
