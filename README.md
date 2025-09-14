@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 | 2 | <a href="https://github.com/jaehyukpyon2/htmlcssjs-book">html/css 포트폴리오 템플릿</a> |
 | 1 | <a href="https://github.com/jaehyukpyon2/MyBatisPlainJavaConfig">Java, MyBatis 콘솔 CRUD</a> | 
 -->
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eggjam82)](https://solved.ac/eggjam82)
